@@ -1,8 +1,5 @@
 import React, { createContext } from 'react'
-import ReactDOM from 'react-dom/client'
 import '../index.css'
-import { motion } from "framer-motion";
-import {Link} from 'react-scroll'
 
 
 const MyWork = () => {
