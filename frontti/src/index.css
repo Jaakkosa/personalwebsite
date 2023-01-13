@@ -21,6 +21,18 @@ body{
 
 }
 
+.ympyra {
+  height: 24px;
+  width: 24px;
+  border-radius: 24px;
+  background-color: black;
+  position: fixed; 
+  top: -5;
+  left: -5;
+  pointer-events: none;
+  z-index: 99999999;
+}
+
 .EaIkonit{
   grid-column-start: fourth;
   grid-column-end: fifth;
